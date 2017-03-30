@@ -1,0 +1,1 @@
+!function(){var a=$("#sidebar,#wrapper"),e=$("#sidebarToggle i.fa");$("#sidebarToggle").click(function(){a.toggleClass("hide-sidebar"),e.toggleClass("fa-angle-left").toggleClass("fa-angle-right")})}();
