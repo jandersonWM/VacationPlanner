@@ -1,11 +1,12 @@
 {
   "MailSettings": {
-    "ToAddress": "jeanderson@email.wm.edu"
+    //to be implemented later
+    "ToAddress": "email@gmail.com"
   },
   "ConnectionStrings": {
     "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDb;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
   },
   "Keys": {
-    "BingKey": "AgDiq8PS2vWiZdIJpY3E-rJwCvuFjMyX5GQvp9ipPbHSgotfAIYO5msPXy2q2o1C"
+    "BingKey": "NEVERPUTKEYSINSOURCECONTROL"
   }
 }
