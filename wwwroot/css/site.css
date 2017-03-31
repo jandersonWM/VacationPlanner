@@ -20,6 +20,14 @@ input[type=text], input[type=password], textarea {
     margin: 0;
 }
 
+#main > div {
+    margin-left: 0 !important;
+}
+
+#TitleLink {
+    margin-left: 0px;
+}
+
 #footer {
     background-color: #222;
     color: #eee;
@@ -30,8 +38,12 @@ input[type=text], input[type=password], textarea {
     margin: 0 0 0 250px;
 }
 
+#footer h4 {
+    color: white !important;
+}
+
 .headshot {
-    max-width: 50px;
+    max-width: 75px;
     border: 1px solid #222;
     padding: 8px 5px;
 }
@@ -70,6 +82,10 @@ input[type=text], input[type=password], textarea {
         -webkit-transition: left ease .45s;
         transition: left ease .45s;
     }
+
+#sidebarToggle {
+    margin-top: 10px;
+}
 
 #wrapper {
     margin: 0 0 0 250px;
